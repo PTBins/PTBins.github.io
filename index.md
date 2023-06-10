@@ -13,7 +13,7 @@ It is important to note that this is **not** a list of exploits, and the program
 
 PTBins is a [collaborative][] project created by [Emilio Pinna][norbemi] and [Andrea Cardaci][cyrus_and] where everyone can [contribute][] with additional binaries and techniques.
 
-If you are looking for Windows binaries you should visit [LOLBAS][].
+If you are looking for Windows binaries you should visit 123 [LOLBAS][].
 
 [functions]: /functions/
 [LOLBAS]: https://lolbas-project.github.io/
