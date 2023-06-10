@@ -5,7 +5,7 @@ title: Contribute
 
 ## Structure
 
-Each GTFO binary is defined in a file in the [`_gtfobins/`] folder named as `<binary name>.md`, such file consists only of a [YAML] front matter which describes the binary and its functions.
+Each GTFO binary is defined in a file in the [`_ptbins/`] folder named as `<binary name>.md`, such file consists only of a [YAML] front matter which describes the binary and its functions.
 
 The full syntax is the following:
 
@@ -27,7 +27,7 @@ functions:
 
 Where `FUNCTION` is one of the values described in the [`_data/functions.yml`] file.
 
-Feel free to use any file in the [`_gtfobins/`] folder as an example.
+Feel free to use any file in the [`_ptbins/`] folder as an example.
 
 ## Pull request process
 
@@ -45,5 +45,5 @@ Before sending a pull request of a new binary or function, ensure the following:
 Pull requests adding new functions in [`_data/functions.yml`] are allowed and subjected to project maintainers vetting.
 
 [YAML]: https://yaml.org/
-[`_gtfobins/`]: https://github.com/GTFOBins/GTFOBins.github.io/tree/master/_gtfobins
-[`_data/functions.yml`]: https://github.com/GTFOBins/GTFOBins.github.io/blob/master/_data/functions.yml
+[`_ptbins/`]: https://github.com/PTBins/PTBins.github.io/tree/master/_ptbins
+[`_data/functions.yml`]: https://github.com/PTBins/PTBins.github.io/blob/master/_data/functions.yml
